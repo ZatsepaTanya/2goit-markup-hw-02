@@ -1,0 +1,13 @@
+body{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+}
+.link{
+    text-decoration: none;
+}
+.list{
+    list-style: none;
+}
+.address{
+    font-style: normal;
+}
